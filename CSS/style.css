@@ -1,0 +1,60 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body {
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+img{
+      width: 10em;    
+      margin-left: 5em;
+  }
+header{
+    background-color: black;
+    height: 6em;
+    }
+.menus{
+    float: right;
+    margin-top:40px;
+}
+.menus a{
+    text-decoration: none;
+    color: white;
+    border: 1px solid white;
+    padding: 10px;
+    margin-right: 8px;
+}
+.menus :hover{
+    background-color:rgb(223, 140, 134);
+    color: yellow;
+}
+.container{
+    margin-left: 160px;
+    margin-top: 20px;
+    
+}
+.box{
+    border: 2px solid white;
+    padding: 10px;
+    width: 165px;
+    margin-right: 5px;
+    float: left;
+}
+.box img{
+    margin-left: 1px;
+    margin-bottom: 3px;
+}
+.box a{
+    text-decoration: none;
+    color: white;
+    padding: 2px;
+  
+}
+.box a :hover{
+    
+}
+.box h3{
+    text-align: center;
+}
